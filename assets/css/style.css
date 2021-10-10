@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+ html {
+    font-size: 62.5%;
+ }
+
+
+body {
+    background: url("../img/James2.jpeg") center/cover no-repeat; 
+    /* background: gold; */
+    text-align: center;
+    height: 100vh; 
+    width: 100vw;
+    font-size: 10px;
+    padding: 10px;
+}
+
+
+section {
+    font-size: 2.5rem;
+    background: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    /* opacity: 0.5; */
+    padding: 1.2rem; 
+    margin: 5rem 5rem 5rem 5rem; 
+}
+
+
+section h1 {
+    color: white;
+    opacity: none;
+    padding: 1.2rem; 
+    margin: 0rem 2rem 0rem 0rem; 
+}
+
+
+article {
+    background: rgba(221, 212, 212, 0.7);
+    border-radius: 5px;
+    padding: 4rem 5rem 6rem 5rem;
+    font-family: "Helvetica";
+    font-size: 1.5em;
+    /* line-height: 36px; */
+    margin: 5rem 5rem 5rem 5rem; 
+}
+
+
+p {
+    margin: 1em 0;
+}
+
+
+h2 {
+    margin: 2em 0;
+    color: rgb(61, 59, 59);
+}
